@@ -1,0 +1,10 @@
+## Visual Studio 2015+ cache / configuration
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
