@@ -24,10 +24,10 @@ namespace KnowledgeSpace.BackendServer.Data.Entities
 
         [MaxLength(50)]
         [Column(TypeName = "varchar(50)")]
-        public string ParentId { get; set; }
+        public string? ParentId { get; set; }
 
         [MaxLength(50)]
         [Column(TypeName = "varchar(50)")]
-        public string Icon { get; set; }
+        public string? Icon { get; set; }
     }
 }
