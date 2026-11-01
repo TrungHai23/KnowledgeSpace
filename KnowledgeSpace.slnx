@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KnowledgeSpace.BackendServer/KnowledgeSpace.BackendServer/KnowledgeSpace.BackendServer.csproj" />
+    <Project Path="src/KnowledgeSpace.ViewModels/KnowledgeSpace.ViewModels/KnowledgeSpace.ViewModels.csproj" />
+    <Project Path="src/KnowledgeSpace.WebPortal/KnowledgeSpace.WebPortal/KnowledgeSpace.WebPortal.csproj" />
+  </Folder>
+</Solution>
